@@ -1,4 +1,4 @@
-const socket = new WebSocket('ws://localhost:41201');
+const socket = new WebSocket('ws://localhost:41202');
 const messages = [];
 
 const $ = (selector) => document.querySelector(selector);
