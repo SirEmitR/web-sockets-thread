@@ -119,6 +119,7 @@ form{
     padding: 10px;
     padding-left: 15px;
     border-radius: 10px;
+    width: max-content;
     max-width: 60%;
     font-size: 14px;
     color: rgb(112, 112, 112);
